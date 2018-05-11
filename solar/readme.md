@@ -10,5 +10,36 @@ You will need:
 * A solar panel. You have to get a monocristline panel. Because they are the most efficient and you are in a reduced space.
 * A charge regulator. Get one with LCD.
 * A battery. Get a gel one. You don't want sulfuric acid leaking in your car, do you?
-* An inverter
+* An inverter. Make sure it is a sinusoidal one and you can connect resistive and inductive loads.
+
+## Calculate your loads
+
+| Load | Power |
+|------------------------|-------|
+| Ultimaker 2 3D Printer | 200W |
+| Light | 3W |
+| Roland Modela MDX-20 | 40W |
+| Roland GX-24 Vinyl Cutter | 30W |
+| Full Spectrum 5th Gen Laser | 300W* |
+| Oscilloscope | 30W |
+| Soldering Station | 40W |
+| Weller Heat Gun | 250W |
+| Power Supply 30V 5A | 150W |
+| Total | 1043W |
+
+Simultaneity factor: 60% (the amount of these loads to be considered to be run simultaneously in any given moment). Therefore 600W.
+
+## Dimension the battery
+I will assume here that I want to run 24h a 300W load. The battery should be large enough to hold this load during the periods of darkness.
+
+Estimated sun hours: 6h  
+Therefore no sun hours: 18h  
+18h x 300W = 5400 Wh This is the capacity of the battery.
+
+## Dimension the solar panel
+We need to refill this capacity during the sun hours, so: 6h x Power = 5400 Wh. Therefore Power = 900 W
+
+## Matching the requirements with the market and the vehicle
+The next step is to adjust your needs to what is possibly available in the market. In my case I need to use the maximum width of the roof rack, 1.4m.
+
 
