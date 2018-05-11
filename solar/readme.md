@@ -14,30 +14,24 @@ You will need:
 
 ## Calculate your loads
 
-| Load | Power |
-|------------------------|-------|
-| Ultimaker 2 3D Printer | 200W |
-| Light | 3W |
-| Roland Modela MDX-20 | 40W |
-| Roland GX-24 Vinyl Cutter | 30W |
-| Full Spectrum 5th Gen Laser | 300W* |
-| Oscilloscope | 30W |
-| Soldering Station | 40W |
-| Weller Heat Gun | 250W |
-| Power Supply 30V 5A | 150W |
-| Total | 1043W |
-
-Simultaneity factor: 60% (the amount of these loads to be considered to be run simultaneously in any given moment). Therefore 600W.
+| Load | Power | Dayly usage | Total |
+|------------------------|-------| ---| ---|
+| Ultimaker 2 3D Printer | 200W | 3h | 600wh
+| Light | 3W | 2h | 6Wh
+| Roland Modela MDX-20 | 40W | 1h | 40Wh
+| Roland GX-24 Vinyl Cutter | 30W | 0.5h | 15Wh
+| Full Spectrum 5th Gen Laser | 300W* | 1h | 300 Wh
+| Oscilloscope | 30W | 0.5h | 15 Wh
+| Soldering Station | 40W | 1h | 40 Wh
+| Weller Heat Gun | 250W | 0.1h | 25Wh
+| Power Supply 30V 5A | 150W | 0.2h | 30Wh
+| Total | 1043W |  | 1071 Wh
 
 ## Dimension the battery
-I will assume here that I want to run 24h a 300W load. The battery should be large enough to hold this load during the periods of darkness.
-
-Estimated sun hours: 6h  
-Therefore no sun hours: 18h  
-18h x 300W = 5400 Wh This is the capacity of the battery.
+1100 Wh x 1AV/W x 1/12v = 92Ah
 
 ## Dimension the solar panel
-We need to refill this capacity during the sun hours, so: 6h x Power = 5400 Wh. Therefore Power = 900 W
+We need to refill this capacity during the sun hours, so: 6h x Power = 1100 Wh. Therefore Power = 185 W
 
 ## Matching the requirements with the market and the vehicle
 The next step is to adjust your needs to what is possibly available in the market. In my case I need to use the maximum width of the roof rack, 1.4m.
