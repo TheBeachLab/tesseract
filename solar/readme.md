@@ -9,8 +9,8 @@ Now another factor to consider when designing a solar installation is the peak s
 You will need:
 * A solar panel. You have to get a monocristline panel. Because they are the most efficient and you are in a reduced space.
 * A charge regulator. Get one with LCD.
-* A battery. Get a gel one. You don't want sulfuric acid leaking in your car, do you?
-* An inverter. Make sure it is a sinusoidal one and you can connect resistive and inductive loads.
+* A battery. Get a Full Cycle AGM one. You don't want sulfuric acid leaking in your car, do you?
+* An inverter. Make sure it is a pure sinusoidal one and you can connect resistive and inductive loads.
 
 ## Calculate your loads
 
@@ -36,4 +36,28 @@ We need to refill this capacity during the sun hours, so, assuming 6 hours of su
 ## Matching the requirements with the market and the vehicle
 The next step is to adjust your needs to what is possibly available in the market. In my case I need to use the maximum width of the roof rack, 1.4m.
 
+## Converting the Equipment from AC to DV
+
+### 12V DC
+* Fumes absorver. It was converted replacing the 220V AC fan with a 12V DC computer fab
+* Soldering Station TS100 (17W, takes 40s from 30C to 300C)
+* Mavic Pro Drone battery charger
+
+### 19V DC
+* Roland Modela MDX-20 Precision Milling 
+* Roland GX-24 Vinyl Cutter
+* Soldering Station TS100 (40W, takes 15s from 30C to 300C)
+
+### 24V DC
+* Ultimaker 3D printer
+* Soldering Station TS100 (65W, takes 11s from 30C to 300C)
+
+### Unknown Voltage (to be determined)
+* Dobot Robot Arm (with Ramps)
+* Full Spectrum 5th Gen Laser Cutter
+* CNC Machine and Spindle (seems to to 26 to 40V DC)
+* Weller Heatgun (currently 110V AC)
+* Kinect 3D Scanner
+* LED Lamp
+* Oscilloscope
 
