@@ -55,7 +55,7 @@ The next step is to adjust your needs to what is possibly available in the marke
 ### Unknown Voltage (to be determined)
 * Dobot Robot Arm (with Ramps)
 * Full Spectrum 5th Gen Laser Cutter
-* CNC Machine and Spindle (seems to to 26 to 40V DC)
+* CNC Machine and Spindle (seems to accept 26 to 40V DC)
 * Weller Heatgun (currently 110V AC)
 * Kinect 3D Scanner
 * LED Lamp
