@@ -92,37 +92,36 @@ The roof rack is a chinese replica of the original Mercedes G Professional roof 
 
 ### Sunday
 
-- [ ] Buy/get ultimaker connector (Kycon 4 pin)
-- [ ] Buy solar lipo charger MPPT
+- [x] Buy solar charger PWM and battery
 
-- [ ] Buy 12V inflate pump
 
 ### Monday
 
-- [ ] Remove tie rods bar from car
-- [ ] Remove solar panel from car
-- [ ] Remove back door from car
-- [ ] Reset service menu
-- [ ] Pass ITV
-- [ ] Buy Nural 27 (quick 5 min)
-- [ ] Place the reflecting aluminum under the roof plates
+- [x] Remove tie rods bar from car
+- [x] Remove solar panel from car
+- [x] Remove back door from car
+- [x] Reset service menu
+- [x] Pass ITV
+- [x] Buy Nural 21
+- [x] Place the reflecting aluminum under the roof plates
   - 4 x 44cm x 138cm
   - 1 x 20cm x 138cm
-- [ ] Weld nuts and washers (40 small washer + 26 big washer)
-- [ ] Get black spray paint
-- [ ] Glue washers on the back of the trunk door
-- [ ] Place back trunk door
-- [ ] Pick yellow filament roll adapter for UM2
-- [ ] Look for batteries 12V from UPS, etc, try to charge
 
-- [ ] Find battery terminals yellow + red
-- [ ] Find 3mm Terminals for yellow battery (dangerous)
-- [ ] Find replacement blades vinyl
-- [ ] Find FR1
+- [x] Buy battery terminals yellow + red
+- [x] Find 3mm Terminals for yellow battery (dangerous)
+- [x] Get black spray paint
+- [x] Pick yellow filament roll adapter for UM2
+- [x] Glue washers on the back of the trunk door
 
 ### Tuesday
 
+- [ ] Look for batteries 12V from UPS, etc, try to charge
+- [ ] Look for GX connector + UM connector
+- [ ] Remove paint from welding spots
+- [ ] Weld nuts and washers (40 small washer + 26 big washer)
+- [ ] Place back trunk door
 - [ ] Weld washers on place
+
 - [ ] Test machines on lipo
   - [ ] Ultimaker 2
   - [ ] Roland Modela
@@ -130,6 +129,8 @@ The roof rack is a chinese replica of the original Mercedes G Professional roof 
 - [ ] Mark support drills on the plate
 - [ ] Mark tension drills on the plate across XY
 - [ ] Place putty on wood
+- [ ] Find replacement blades vinyl
+- [ ] Find FR1
 
 ### Wednesday
 
@@ -146,7 +147,9 @@ The roof rack is a chinese replica of the original Mercedes G Professional roof 
 
 ### Unasigned
 
+- [ ] Buy/get ultimaker connector (Kycon 4 pin)
 - [ ] Build control panel for the rear door (to control the equipment)
 - [ ] Draw and upload the trunk wood design
 - [ ] Fix rear right lock door
+- [ ] Buy 12V inflate pump
 
