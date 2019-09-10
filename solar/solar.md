@@ -1,16 +1,15 @@
 # How to make a solar powered mobile Fab Lab
 
-1. [How to make a solar powered mobile Fab Lab](#how-to-make-a-solar-powered-mobile-fab-lab)
-   1. [Introduction](#introduction)
-   2. [Equipment needed](#equipment-needed)
-   3. [Calculate your loads](#calculate-your-loads)
-   4. [Dimension the battery](#dimension-the-battery)
-   5. [Dimension the solar panel](#dimension-the-solar-panel)
-   6. [Converting the Equipment from AC to DV](#converting-the-equipment-from-ac-to-dv)
-      1. [12V DC](#12v-dc)
-      2. [19V DC](#19v-dc)
-      3. [24V DC](#24v-dc)
-      4. [Not yet converted to DC](#not-yet-converted-to-dc)
+1. [Introduction](#introduction)
+2. [Equipment needed](#equipment-needed)
+3. [Calculate your loads](#calculate-your-loads)
+4. [Dimension the battery](#dimension-the-battery)
+5. [Dimension the solar panel](#dimension-the-solar-panel)
+6. [Converting the Equipment from AC to DV](#converting-the-equipment-from-ac-to-dv)
+   1. [12V DC](#12v-dc)
+   2. [19V DC](#19v-dc)
+   3. [24V DC](#24v-dc)
+   4. [Not yet converted to DC](#not-yet-converted-to-dc)
 
 ## Introduction
 

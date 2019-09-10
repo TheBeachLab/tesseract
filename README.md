@@ -4,20 +4,19 @@
 
 Project Tesseract is the mobile version of The Beach Lab. The most advanced digital fabrication tools retrofitted in the most fabulous vehicle to bring digital fabrication to the most extreme and remote places on Earth. Get ready for the Tesseract journey!
 
-1. [The Beach Lab Tesseract](#the-beach-lab-tesseract)
-   1. [How to make a solar powered Fab Lab](#how-to-make-a-solar-powered-fab-lab)
-   2. [How I organize everything in a cubic meter](#how-i-organize-everything-in-a-cubic-meter)
-   3. [The machines I use](#the-machines-i-use)
-   4. [The vehicle: Mercedes G Wagon](#the-vehicle-mercedes-g-wagon)
-      1. [Roof rack](#roof-rack)
-      2. [Servicing the car](#servicing-the-car)
-   5. [TODO](#todo)
-      1. [Sunday](#sunday)
-      2. [Monday](#monday)
-      3. [Tuesday](#tuesday)
-      4. [Wednesday](#wednesday)
-      5. [Thursday](#thursday)
-      6. [Unasigned](#unasigned)
+1. [How to make a solar powered Fab Lab](#how-to-make-a-solar-powered-fab-lab)
+2. [How I organize everything in a cubic meter](#how-i-organize-everything-in-a-cubic-meter)
+3. [The machines I use](#the-machines-i-use)
+4. [The vehicle: Mercedes G Wagon](#the-vehicle-mercedes-g-wagon)
+   1. [Roof rack](#roof-rack)
+   2. [Servicing the car](#servicing-the-car)
+5. [TODO](#todo)
+   1. [Sunday](#sunday)
+   2. [Monday](#monday)
+   3. [Tuesday](#tuesday)
+   4. [Wednesday](#wednesday)
+   5. [Thursday](#thursday)
+   6. [Unasigned](#unasigned)
 
 ## How to make a solar powered Fab Lab
 
