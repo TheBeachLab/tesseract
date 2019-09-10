@@ -4,7 +4,26 @@
 
 Project Tesseract is the mobile version of The Beach Lab. The most advanced digital fabrication tools retrofitted in the most fabulous vehicle to bring digital fabrication to the most extreme and remote places on Earth. Get ready for the Tesseract journey!
 
-## Equipment
+1. [The Beach Lab Tesseract](#the-beach-lab-tesseract)
+   1. [How to make a solar powered Fab Lab](#how-to-make-a-solar-powered-fab-lab)
+   2. [How I organize everything in a cubic meter](#how-i-organize-everything-in-a-cubic-meter)
+   3. [The machines I use](#the-machines-i-use)
+   4. [The vehicle: Mercedes G Wagon](#the-vehicle-mercedes-g-wagon)
+      1. [Roof rack](#roof-rack)
+      2. [Servicing the car](#servicing-the-car)
+   5. [TODO](#todo)
+      1. [Sunday](#sunday)
+      2. [Monday](#monday)
+      3. [Tuesday](#tuesday)
+      4. [Wednesday](#wednesday)
+      5. [Thursday](#thursday)
+      6. [Unasigned](#unasigned)
+
+## How to make a solar powered Fab Lab
+
+Go to this [page](./solar/solar.md)
+
+## How I organize everything in a cubic meter
 
 Equipment is distributed in 6 strong PP plastic boxes ([Keeeper Robert 40x30x23cm](https://www.keeeper.com/en/produkt/robert/)).
 
@@ -64,7 +83,7 @@ In the trunk there are other items like:
 
 - Roof tent
 
-## The machines
+## The machines I use
 
 - Roland Modela MDX-20 with scanning accesory. Right side far
 - 3D printer. Right side close
@@ -72,13 +91,15 @@ In the trunk there are other items like:
 - Highway roof CNC (under construction)
 - Modified 
 
-## The vehicle
+## The vehicle: Mercedes G Wagon
 
 ### Roof rack
 
 The roof rack is a chinese replica of the original Mercedes G Professional roof rack MKI. I had to reinforce all the solderings, repaint and purchase new stailess steel nuts and bolts.
 
-### Servicing
+### Servicing the car
+
+Since 2016 I started servicing the car myself. I just wanted to learn how the mechanics and electronics where working in case I needed to fix something on the go.
 
 - Habitable filter: Mahle LAK 120 Carbon Active
 - Fuel filter: Bosch F 026 402 056
@@ -89,6 +110,8 @@ The roof rack is a chinese replica of the original Mercedes G Professional roof 
 - Brake fluid: Bosch 1 987 479 107
 
 ## TODO
+
+This section might not have any sense for you. I just keep that for keeping track of what I am missing.
 
 ### Sunday
 
