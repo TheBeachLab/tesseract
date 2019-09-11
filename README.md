@@ -145,20 +145,22 @@ This section might not have any sense for you. I just keep that for keeping trac
   - [x] Roland Modela
   - [x] Roland 
 
-- [ ] Weld nuts and washers (40 small washer + 40 big washer)
+- [x] Weld nuts and washers (40 small washer + 40 big washer)
 - [ ] Look for batteries 12V from UPS, etc, try to charge
 - [ ] Look for UM connector
 - [ ] Find replacement blades vinyl
 
 ### Wednesday
 
-- [ ] Weld washers on place
-- [ ] Service Car
+- [ ] Weld washers in place (screw first)
+- [ ] Weld nuts in place (screw first)
 
 - [ ] Spray paint roof
 
 ### Thursday
 
+- [ ] Get missing parts
+- [ ] Remove unnecesary items from car
 - [ ] Assemble roof
 
 - [ ] Clean glass in+out
@@ -167,6 +169,7 @@ This section might not have any sense for you. I just keep that for keeping trac
 
 ### Unasigned
 
+- [ ] Service Car
 - [ ] Put varnish on the supports, table and plate
 - [ ] Mark support drills on the plate
 - [ ] Mark tension drills on the plate across XY
