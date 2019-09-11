@@ -5,7 +5,7 @@
 Project Tesseract is the mobile version of The Beach Lab. The most advanced digital fabrication tools retrofitted in the most fabulous vehicle to bring digital fabrication to the most extreme and remote places on Earth. Get ready for the Tesseract journey!
 
 1. [How to make a solar powered Fab Lab](#how-to-make-a-solar-powered-fab-lab)
-2. [How I organize everything in a cubic meter](#how-i-organize-everything-in-a-cubic-meter)
+2. [How to organize everything in a cubic meter](#how-to-organize-everything-in-a-cubic-meter)
 3. [The machines I use](#the-machines-i-use)
 4. [The vehicle: Mercedes G Wagon](#the-vehicle-mercedes-g-wagon)
    1. [Roof rack](#roof-rack)
@@ -16,19 +16,20 @@ Project Tesseract is the mobile version of The Beach Lab. The most advanced digi
    3. [Tuesday](#tuesday)
    4. [Wednesday](#wednesday)
    5. [Thursday](#thursday)
-   6. [Unasigned](#unasigned)
+   6. [Friday](#friday)
+   7. [Unasigned](#unasigned)
 
 ## How to make a solar powered Fab Lab
 
 Go to this [page](./solar/solar.md)
 
-## How I organize everything in a cubic meter
+## How to organize everything in a cubic meter
 
 Equipment is distributed in 6 strong PP plastic boxes ([Keeeper Robert 40x30x23cm](https://www.keeeper.com/en/produkt/robert/)).
 
 - [ ] Box 1. Cooking box
-  - [x] 2 butane gas cans
   - [x] Campingaz [Bistro 2](https://www.campingaz.com/uk/p-27302-campbistro-2-stove.aspx)
+  - [x] 2 butane gas cans for the above stove
   - [x] Pottery set
   - [ ] Cutterly set
   - [ ] Plates and cups
@@ -110,7 +111,7 @@ Since 2016 I started servicing the car myself. I just wanted to learn how the me
 
 ## TODO
 
-This section might not have any sense for you. I just keep that for keeping track of what I am missing.
+This section might not have any sense for you. I just keep it for tracking what I am missing.
 
 ### Sunday
 
@@ -152,20 +153,22 @@ This section might not have any sense for you. I just keep that for keeping trac
 
 ### Wednesday
 
-- [ ] Weld washers in place (screw first)
-- [ ] Weld nuts in place (screw first)
+- [x] Weld washers in place (screw first)
+- [x] Weld nuts in place (screw first)
 
-- [ ] Spray paint roof
 
 ### Thursday
 
+- [ ] Spray paint roof
 - [ ] Get missing parts
 - [ ] Remove unnecesary items from car
 - [ ] Assemble roof
 
+### Friday
+
+- [ ] Use AC spray cleaner
 - [ ] Clean glass in+out
 - [ ] Clean Car Interior
-- [ ] Use AC spray cleaner
 
 ### Unasigned
 
