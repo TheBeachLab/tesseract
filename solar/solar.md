@@ -79,4 +79,4 @@ The next step is to match your dimensional needs to what is possibly available i
 - Kinect 3D Scanner
 - LED Loupe Lamp
 - Oscilloscope
-
+- Hot glue gun

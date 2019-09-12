@@ -52,18 +52,18 @@ Equipment is distributed in 6 strong PP plastic boxes ([Keeeper Robert 40x30x23c
   - [ ] Blankets and bed sheets
   - [ ] Pillows
 - [ ] Box 4. Personal Higiene
-  - [ ] Portable solar shower
+  - [x] Portable solar shower
   - [ ] Toilet paper
   - [ ] Towel
   - [ ] Shampoo and gel
   - [x] First aid kit
   - [ ] Common medicines
 - [ ] Box 5. Fab Lab Box
-  - [ ] FR1 Blanks
+  - [x] FR1 Blanks
   - [x] Milling bits
   - [x] Electronic components
   - [x] Projects box
-  - [x] Drone
+  - [ ] Drone
 - [x] Box 6. Tools Box
 
 Boxes are laid out as follows (top view):
@@ -156,9 +156,13 @@ This section might not have any sense for you. I just keep it for tracking what 
 - [x] Weld washers in place (screw first)
 - [x] Weld nuts in place (screw first)
 
-
 ### Thursday
 
+- [ ] Clothes
+- [ ] Sleep Lining
+- [ ] Get screws 20mm and 15mm
+- [ ] Get lycra
+- [ ] Get adapter for Alexa
 - [ ] Spray paint roof
 - [ ] Get missing parts
 - [ ] Remove unnecesary items from car
@@ -166,6 +170,7 @@ This section might not have any sense for you. I just keep it for tracking what 
 
 ### Friday
 
+- [ ] Change habitable filter
 - [ ] Use AC spray cleaner
 - [ ] Clean glass in+out
 - [ ] Clean Car Interior
