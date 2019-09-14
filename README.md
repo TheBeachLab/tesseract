@@ -47,23 +47,23 @@ Equipment is distributed in 6 strong PP plastic boxes ([Keeeper Robert 40x30x23c
   - [ ] Tomatoes and lettuce
   - [ ] Sausages and hams
   - [ ] Toothpicks
-- [ ] Box 3. Night box
+- [x] Box 3. Night box
   - [x] Inflatable mattress with inflator
-  - [ ] Blankets and bed sheets
-  - [ ] Pillows
+  - [x] Blankets and bed sheets
+  - [x] Pillows
 - [ ] Box 4. Personal Higiene
   - [x] Portable solar shower
   - [ ] Toilet paper
-  - [ ] Towel
-  - [ ] Shampoo and gel
+  - [x] Towel
+  - [x] Shampoo and gel
   - [x] First aid kit
-  - [ ] Common medicines
-- [ ] Box 5. Fab Lab Box
+  - [x] Common medicines
+- [x] Box 5. Fab Lab Box
   - [x] FR1 Blanks
   - [x] Milling bits
   - [x] Electronic components
   - [x] Projects box
-  - [ ] Drone
+  - [x] Drone
 - [x] Box 6. Tools Box
 
 Boxes are laid out as follows (top view):
@@ -101,7 +101,7 @@ The roof rack is a chinese replica of the original Mercedes G Professional roof 
 
 Since 2016 I started servicing the car myself. I just wanted to learn how the mechanics and electronics where working in case I needed to fix something on the go.
 
-- Habitable filter: Mahle LAK 120 Carbon Active
+- Habitacle filter: Mahle LAK 120 Carbon Active
 - Fuel filter: Bosch F 026 402 056
 - Air filter left side: Mann C 25 004
 - Air filter right side: Mann C 27 006
@@ -147,9 +147,10 @@ This section might not have any sense for you. I just keep it for tracking what 
   - [x] Roland 
 
 - [x] Weld nuts and washers (40 small washer + 40 big washer)
-- [ ] Look for batteries 12V from UPS, etc, try to charge
-- [ ] Look for UM connector
-- [ ] Find replacement blades vinyl
+- [ ] Look for batteries 12V from UPS, etc, try to charge. Norauto?
+- [x] Look for UM connector
+- [x] Get filament
+- [x] Find replacement blades vinyl
 
 ### Wednesday
 
@@ -158,25 +159,25 @@ This section might not have any sense for you. I just keep it for tracking what 
 
 ### Thursday
 
-- [ ] Clothes
-- [ ] Sleep Lining
-- [ ] Get screws 20mm and 15mm
-- [ ] Get lycra
-- [ ] Get adapter for Alexa
-- [ ] Spray paint roof
-- [ ] Get missing parts
-- [ ] Remove unnecesary items from car
-- [ ] Assemble roof
+- [x] Clothes
+- [x] Sleep Lining
+- [x] Get screws 20mm and 15mm
+- [x] Get lycra
+- [x] Get adapter for Alexa
+- [x] Spray paint roof
+- [x] Get missing parts
+- [x] Remove unnecesary items from car
 
 ### Friday
 
-- [ ] Change habitable filter
-- [ ] Use AC spray cleaner
-- [ ] Clean glass in+out
-- [ ] Clean Car Interior
+- [x] Assemble roof
 
 ### Unasigned
 
+- [ ] Clean Car Interior
+- [ ] Clean glass in+out
+- [ ] Use AC spray cleaner
+- [ ] Change habitable filter
 - [ ] Service Car
 - [ ] Put varnish on the supports, table and plate
 - [ ] Mark support drills on the plate
