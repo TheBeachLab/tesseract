@@ -11,13 +11,6 @@ Project Tesseract is the mobile version of The Beach Lab. The most advanced digi
    1. [Roof rack](#roof-rack)
    2. [Servicing the car](#servicing-the-car)
 5. [TODO](#todo)
-   1. [Sunday](#sunday)
-   2. [Monday](#monday)
-   3. [Tuesday](#tuesday)
-   4. [Wednesday](#wednesday)
-   5. [Thursday](#thursday)
-   6. [Friday](#friday)
-   7. [Unasigned](#unasigned)
 
 ## How to make a solar powered Fab Lab
 
@@ -41,9 +34,10 @@ Equipment is distributed in 6 strong PP plastic boxes ([Keeeper Robert 40x30x23c
   - [x] Olive oil
   - [x] Vinegar
   - [x] Salt and pepper
-  - [ ] Potatoes, onions and garlic
+  - [x] Bread
+  - [ ] Garlic and spices
   - [x] Coffee beans and manual grinder
-  - [ ] Eggs
+  - [x] Eggs
   - [ ] Tomatoes and lettuce
   - [ ] Sausages and hams
   - [ ] Toothpicks
@@ -88,7 +82,7 @@ In the trunk there are other items like:
 - Roland Modela MDX-20 with scanning accesory. Right side far
 - 3D printer. Right side close
 - Vinyl cutter. Left side
-- Highway roof CNC (under construction)
+- Highway MK I. The roof CNC. [Github repository]()
 - Modified 
 
 ## The vehicle: Mercedes G Wagon
@@ -101,79 +95,31 @@ The roof rack is a chinese replica of the original Mercedes G Professional roof 
 
 Since 2016 I started servicing the car myself. I just wanted to learn how the mechanics and electronics where working in case I needed to fix something on the go.
 
-- Habitacle filter: Mahle LAK 120 Carbon Active
-- Fuel filter: Bosch F 026 402 056
-- Air filter left side: Mann C 25 004
-- Air filter right side: Mann C 27 006
+Yearly:
+
 - Oil filter: Mann HU 821 x
 - Oil 8l: Castrol Edge 5W30 Titanium FST C3
+
+Every 2 years:
+
+- Fuel filter: Bosch F 026 402 056
 - Brake fluid: Bosch 1 987 479 107
+
+Air filters (check cabin filter before):
+
+- Cabin filter: Mahle LAK 120 Carbon Active
+- Air filter left side: Mann C 25 004
+- Air filter right side: Mann C 27 006
 
 ## TODO
 
 This section might not have any sense for you. I just keep it for tracking what I am missing.
 
-### Sunday
-
-- [x] Buy solar charger PWM and battery
-
-### Monday
-
-- [x] Remove tie rods bar from car
-- [x] Remove solar panel from car
-- [x] Remove back door from car
-- [x] Reset service menu
-- [x] Pass ITV
-- [x] Buy Nural 21
 - [x] Place the reflecting aluminum under the roof plates
   - 4 x 44cm x 138cm
   - 1 x 20cm x 138cm
-
-- [x] Buy battery terminals yellow + red
-- [x] Find 3mm Terminals for yellow battery (dangerous)
-- [x] Get black spray paint
-- [x] Pick yellow filament roll adapter for UM2
-- [x] Glue washers on the back of the trunk door
-- [x] Find FR1
-
-### Tuesday
-
-- [x] Look for GX connector
-- [x] Remove paint from welding spots
-- [x] Place back trunk door
 - [x] Test machines on lipo
   - [ ] Ultimaker 2
-  - [x] Roland Modela
-  - [x] Roland 
-
-- [x] Weld nuts and washers (40 small washer + 40 big washer)
-- [ ] Look for batteries 12V from UPS, etc, try to charge. Norauto?
-- [x] Look for UM connector
-- [x] Get filament
-- [x] Find replacement blades vinyl
-
-### Wednesday
-
-- [x] Weld washers in place (screw first)
-- [x] Weld nuts in place (screw first)
-
-### Thursday
-
-- [x] Clothes
-- [x] Sleep Lining
-- [x] Get screws 20mm and 15mm
-- [x] Get lycra
-- [x] Get adapter for Alexa
-- [x] Spray paint roof
-- [x] Get missing parts
-- [x] Remove unnecesary items from car
-
-### Friday
-
-- [x] Assemble roof
-
-### Unasigned
-
 - [ ] Clean Car Interior
 - [ ] Clean glass in+out
 - [ ] Use AC spray cleaner
@@ -187,4 +133,3 @@ This section might not have any sense for you. I just keep it for tracking what 
 - [ ] Build control panel for the rear door (to control the equipment)
 - [ ] Draw and upload the trunk wood design
 - [ ] Fix rear right lock door
-- [ ] Buy 12V inflate pump

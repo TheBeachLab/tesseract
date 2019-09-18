@@ -56,18 +56,19 @@ The next step is to match your dimensional needs to what is possibly available i
 ### 12V DC
 
 - Fumes absorver. It was converted replacing the 220V AC fan with a 12V DC computer fab
-- Soldering Station TS100 (17W, takes 40s from 30C to 300C)
-- Mavic Pro Drone battery charger
+- Soldering Station TS100 (at 12V it draws 17W, takes 40s from 30C to 300C)
+- Mavic Pro Drone. It already has a 12V battery charger.
+- Kinect 3D Scanner (model 1431, you can see the model number in the power supply). It has a 12V power supply. When you chop the power supply at has 2 wires, one brown (+12V) and one grey (ground). Installed the AUR package libfreenect-git, which also includes the udev rules (restart or reload the udev rules). Current status: not working.
 
 ### 19V DC
 
-- Roland Modela MDX-20 Precision Milling 
+- Roland Modela MDX-20 Precision Milling. 
 - Soldering Station TS100 (40W, takes 15s from 30C to 300C)
 
 ### 24V DC
 
-- Roland GX-24 Vinyl Cutter (tested and also  works with 19V)
-- Ultimaker 3D printer (in theory also works with 19V)
+- Roland GX-24 Vinyl Cutter (tested and also works with 19V)
+- Ultimaker 3D printer (in theory also works with 19V). The connector 
 - Soldering Station TS100 (65W, takes 11s from 30C to 300C)
 
 ### Not yet converted to DC
@@ -76,7 +77,6 @@ The next step is to match your dimensional needs to what is possibly available i
 - Full Spectrum 5th Gen Laser Cutter
 - CNC Machine and Spindle (seems to accept 26V to 40V DC)
 - Weller Heatgun (currently 110V AC)
-- Kinect 3D Scanner
 - LED Loupe Lamp
 - Oscilloscope
 - Hot glue gun
