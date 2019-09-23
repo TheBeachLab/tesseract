@@ -24,11 +24,11 @@ Equipment is distributed in 6 strong PP plastic boxes ([Keeeper Robert 40x30x23c
   - [x] Campingaz [Bistro 2](https://www.campingaz.com/uk/p-27302-campbistro-2-stove.aspx)
   - [x] 2 butane gas cans for the above stove
   - [x] Pottery set
-  - [ ] Cutterly set
+  - [x] Cutterly set
   - [ ] Plates and cups
   - [x] Coffee machine
   - [x] Dish soap, scourer
-  - [ ] Kitchen rags
+  - [x] Kitchen rags
   - [ ] Paper towels
 - [ ] Box 2. Food box
   - [x] Olive oil
@@ -82,7 +82,7 @@ In the trunk there are other items like:
 - Roland Modela MDX-20 with scanning accesory. Right side far
 - 3D printer. Right side close
 - Vinyl cutter. Left side
-- Highway MK I. The roof CNC. [Github repository]()
+- Highway MK I. The roof CNC. [Github repository](https://github.com/fellesverkstedet/fabricatable-machines/tree/master/highway-mobile-large-format-cnc)
 - Modified 
 
 ## The vehicle: Mercedes G Wagon

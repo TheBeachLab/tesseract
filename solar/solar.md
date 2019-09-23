@@ -9,7 +9,8 @@
    1. [12V DC](#12v-dc)
    2. [19V DC](#19v-dc)
    3. [24V DC](#24v-dc)
-   4. [Not yet converted to DC](#not-yet-converted-to-dc)
+   4. [36V DC](#36v-dc)
+   5. [Not yet converted to DC](#not-yet-converted-to-dc)
 
 ## Introduction
 
@@ -59,6 +60,7 @@ The next step is to match your dimensional needs to what is possibly available i
 - Soldering Station TS100 (at 12V it draws 17W, takes 40s from 30C to 300C)
 - Mavic Pro Drone. It already has a 12V battery charger.
 - Kinect 3D Scanner (model 1431, you can see the model number in the power supply). It has a 12V power supply. When you chop the power supply at has 2 wires, one brown (+12V) and one grey (ground). Installed the AUR package libfreenect-git, which also includes the udev rules (restart or reload the udev rules). Current status: not working.
+- Dobot Robot Arm (12V 7A 60W)
 
 ### 19V DC
 
@@ -71,12 +73,19 @@ The next step is to match your dimensional needs to what is possibly available i
 - Ultimaker 3D printer (in theory also works with 19V). The connector 
 - Soldering Station TS100 (65W, takes 11s from 30C to 300C)
 
+### 36V DC
+
+- CNC Machine and Spindle
+
 ### Not yet converted to DC
 
-- Dobot Robot Arm (with Ramps)
-- Full Spectrum 5th Gen Laser Cutter
-- CNC Machine and Spindle (seems to accept 26V to 40V DC)
-- Weller Heatgun (currently 110V AC)
+I have a 135W inverter 12VDC to 220VAC for the equipment not yet converted to DC
+
 - LED Loupe Lamp
 - Oscilloscope
-- Hot glue gun
+- Hot glue  60W
+
+Getting a 1500W inverter 12VDC to 110VAC for the following equipment:
+
+- Full Spectrum 5th Gen Laser Cutter. To be modified to [LaserWeb](https://laserweb.yurl.ch)
+- Weller Heatgun (currently 110V AC 250W)
