@@ -25,33 +25,35 @@ Equipment is distributed in 6 strong PP plastic boxes ([Keeeper Robert 40x30x23c
   - [x] 2 butane gas cans for the above stove
   - [x] Pottery set
   - [x] Cutterly set
-  - [ ] Plates and cups
-  - [x] Coffee machine
   - [x] Dish soap, scourer
   - [x] Kitchen rags
+  - [x] Plates
+  - [x] Cups
   - [ ] Paper towels
 - [ ] Box 2. Food box
+  - [x] Coffee machine
+  - [x] Manual coffee  grinder
   - [x] Olive oil
   - [x] Vinegar
   - [x] Salt and pepper
   - [x] Bread
-  - [ ] Garlic and spices
-  - [x] Coffee beans and manual grinder
+  - [x] Coffee beans
   - [x] Eggs
+  - [x] Toothpicks
+  - [ ] Garlic
   - [ ] Tomatoes and lettuce
   - [ ] Sausages and hams
-  - [ ] Toothpicks
 - [x] Box 3. Night box
   - [x] Inflatable mattress with inflator
   - [x] Blankets and bed sheets
   - [x] Pillows
 - [ ] Box 4. Personal Higiene
   - [x] Portable solar shower
-  - [ ] Toilet paper
   - [x] Towel
   - [x] Shampoo and gel
   - [x] First aid kit
   - [x] Common medicines
+  - [ ] Toilet paper
 - [x] Box 5. Fab Lab Box
   - [x] FR1 Blanks
   - [x] Milling bits
