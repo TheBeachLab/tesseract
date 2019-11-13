@@ -1,20 +1,20 @@
 # The Beach Lab Tesseract
 
-![](tess.svg)
+![](./doc/img/tess.svg)
 
 Project Tesseract is the mobile version of The Beach Lab. The most advanced digital fabrication tools retrofitted in the most fabulous vehicle to bring digital fabrication to the most extreme and remote places on Earth. Get ready for the Tesseract journey!
 
-1. [How to make a solar powered Fab Lab](#how-to-make-a-solar-powered-fab-lab)
-2. [How to organize everything in a cubic meter](#how-to-organize-everything-in-a-cubic-meter)
-3. [The machines I use](#the-machines-i-use)
-4. [The vehicle: Mercedes G Wagon](#the-vehicle-mercedes-g-wagon)
-   1. [Roof rack](#roof-rack)
-   2. [Servicing the car](#servicing-the-car)
-5. [TODO](#todo)
+- [How to make a solar powered Fab Lab](#how-to-make-a-solar-powered-fab-lab)
+- [How to organize everything in a cubic meter](#how-to-organize-everything-in-a-cubic-meter)
+- [The machines I use](#the-machines-i-use)
+- [The vehicle: Mercedes G Wagon](#the-vehicle-mercedes-g-wagon)
+  - [Roof rack](#roof-rack)
+  - [Servicing the car](#servicing-the-car)
+- [TODO](#todo)
 
 ## How to make a solar powered Fab Lab
 
-Go to this [page](./solar/solar.md)
+Go to this [page](./doc/solar.md)
 
 ## How to organize everything in a cubic meter
 
@@ -81,11 +81,11 @@ In the trunk there are other items like:
 
 ## The machines I use
 
-- Roland Modela MDX-20 with scanning accesory. Right side far
-- 3D printer. Right side close
-- Vinyl cutter. Left side
+- Othermill CNC
+- Ultimaker 2 3D printer. Right side close
+- Roland GX24 Vinyl cutter. Left side
 - Highway MK I. The roof CNC. [Github repository](https://github.com/fellesverkstedet/fabricatable-machines/tree/master/highway-mobile-large-format-cnc)
-- Modified 
+- Full Spectrum 
 
 ## The vehicle: Mercedes G Wagon
 

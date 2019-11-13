@@ -1,16 +1,16 @@
 # How to make a solar powered mobile Fab Lab
 
-1. [Introduction](#introduction)
-2. [Equipment needed](#equipment-needed)
-3. [Calculate your loads](#calculate-your-loads)
-4. [Dimension the battery](#dimension-the-battery)
-5. [Dimension the solar panel](#dimension-the-solar-panel)
-6. [Converting the Equipment from AC to DV](#converting-the-equipment-from-ac-to-dv)
-   1. [12V DC](#12v-dc)
-   2. [19V DC](#19v-dc)
-   3. [24V DC](#24v-dc)
-   4. [36V DC](#36v-dc)
-   5. [Not yet converted to DC](#not-yet-converted-to-dc)
+- [Introduction](#introduction)
+- [Equipment needed](#equipment-needed)
+- [Calculate your loads](#calculate-your-loads)
+- [Dimension the battery](#dimension-the-battery)
+- [Dimension the solar panel](#dimension-the-solar-panel)
+- [Converting the Equipment from AC to DV](#converting-the-equipment-from-ac-to-dv)
+  - [12V DC](#12v-dc)
+  - [19V DC](#19v-dc)
+  - [24V DC](#24v-dc)
+  - [36V DC](#36v-dc)
+  - [Not yet converted to DC](#not-yet-converted-to-dc)
 
 ## Introduction
 
@@ -61,6 +61,7 @@ The next step is to match your dimensional needs to what is possibly available i
 - Mavic Pro Drone. It already has a 12V battery charger.
 - Kinect 3D Scanner (model 1431, you can see the model number in the power supply). It has a 12V power supply. When you chop the power supply at has 2 wires, one brown (+12V) and one grey (ground). Installed the AUR package libfreenect-git, which also includes the udev rules (restart or reload the udev rules). Current status: not working.
 - Dobot Robot Arm (12V 7A 60W)
+- Othermill
 
 ### 19V DC
 

@@ -1,4 +1,4 @@
-# Roland Modela MDX-20
+# Roland Modela MDX-20 CNC
 
 ## Flow control
 
