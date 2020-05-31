@@ -1,12 +1,14 @@
-# Mercedes G Service Log
+# Mercedes G Service and Maintenance Log
 
-| km       | Date              | Service                                    |
+| km	   |	 Date          | Service                                    |
 | -------- | ----------------- | ------------------------------------------ |
-| **TODO** |
+| **TODO** |		       |					    |
 |          |                   | Brake fluid change                         |
 |          |                   | Steering play fix                          |
 |          |                   | Transmission play fix                      |
-| **DONE** |
+| 	   |		       | Maintenance all 5 doors		    |
+|	   |		       | Fix rear wiper motor			    |
+| **DONE** |		       |					    |
 | 177552   | November 21, 2019 | Oil Change, Oil Filter Change              |
 |          |                   | ITV Pass                                   |
 |          |                   | Front tie rods replaced                    |
