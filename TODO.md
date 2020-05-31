@@ -20,3 +20,4 @@ This section might not have any sense for you. I just keep it for tracking what 
 - [ ] Build control panel for the rear door (to control the equipment)
 - [ ] Draw and upload the trunk wood design
 - [ ] Fix rear right lock door
+- [ ] Print cam cleats and fiddle blocks
