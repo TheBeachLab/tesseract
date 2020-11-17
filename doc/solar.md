@@ -35,7 +35,7 @@ You will need:
 | Light                       | 3W    | 2h          | 6Wh     |
 | Roland Modela MDX-20        | 40W   | 1h          | 40Wh    |
 | Roland GX-24 Vinyl Cutter   | 30W   | 0.5h        | 15Wh    |
-| Full Spectrum 5th Gen Laser | 300W* | 1h          | 300 Wh  |
+| Full Spectrum 5th Gen Laser | 300W  | 1h          | 300 Wh  |
 | Oscilloscope                | 30W   | 0.5h        | 15 Wh   |
 | Soldering Station           | 40W   | 1h          | 40 Wh   |
 | Weller Heat Gun             | 250W  | 0.1h        | 25Wh    |

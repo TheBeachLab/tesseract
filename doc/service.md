@@ -1,4 +1,26 @@
-# Mercedes G Service and Maintenance Log
+# Service and Maintenance
+
+Since 2016 I started servicing the car myself. I just wanted to learn how the mechanics and electronics where working in case I needed to fix something on the go.
+
+## Maintenance Plan
+
+Yearly:
+
+- Oil filter: Mann HU 821 x
+- Oil 8l: Castrol Edge 5W30 Titanium FST C3
+
+Every 2 years:
+
+- Fuel filter: Bosch F 026 402 056
+- Brake fluid: Bosch 1 987 479 107
+
+Air filters (check cabin filter before):
+
+- Cabin filter: Mahle LAK 120 Carbon Active
+- Air filter left side: Mann C 25 004
+- Air filter right side: Mann C 27 006
+
+## Maintenance Log
 
 | km	   |	 Date          | Service                                    |
 | -------- | ----------------- | ------------------------------------------ |
@@ -23,54 +45,5 @@
 
 
 
-## Mercedes G
 
-### Bulbs
 
-- trunk 42mm Normal 12V 10W
-- License plate 37mm can bus 12V 5W
-
-Cajas G
-www.plastipol.com    
-
-Roof rack
-https://photos.app.goo.gl/Ey8Uvi3Eu8xXgzJl1
-https://clubgwagen.com/forum/viewtopic.php?f=18&t=10208&start=50&hilit=letech 
-chinese,crap,crappy,fake,letech,dalian,eurocars,scam,scammer,imitation,aliexpress,alibaba,ebay
-
-### Aerodynamics
-
-- mercedes g cx=0,54
-- 2.97 sqm
-
-### Comand unit
-
-Comand APS NTG2
-
-DVD
-Navigation DVD COMAND APS
-A >09/04
-GL
-B
-M >07/05
-C >04/04 <03/07
-R
-CLK >06/04
-Smart forfour
-G >03/07
-
-B6 782 38 48
-A 169 827 50 59
-1849.387
-Version 9.0
-
-4634631115 Drag or steering Link (la de delante)
-463-330-07-03 en el atras Tie Rod assembly
-
-https://www.piezascochesonline.es/
-https://www.endado.com/
-http://www.euro4x4parts.com
-
-### Corner indicators
-
-- Monark  098 223 014
