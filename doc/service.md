@@ -44,6 +44,21 @@ Air filters (check cabin filter before):
 |          | Summer 2019       | Transmission plastic cap replaced          |
 
 
+## Repairs
 
+### Windshield rust
 
+Requires:
+- New gasket. Old one is probably perforated
+- Suction cups
+- Primer
+- Rust paint
+
+Tasks
+- 1h Remove glass
+- 1h mask
+- 1h clean rust
+- 1h apply rust inhibitor
+- Overnight dry
+- 1h mount glass
 
