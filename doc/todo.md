@@ -21,3 +21,6 @@ This section might not have any sense for you. I just keep it for tracking what 
 - [ ] Draw and upload the trunk wood design
 - [ ] Fix rear right lock door
 - [ ] Print cam cleats and fiddle blocks
+
+
+- Yakima roof tent

@@ -23,4 +23,8 @@
 	- Navigation DVD A 169 827 xx xx last known version 2018
 - Windshield gasket W463
 	- A4636710220
+- Rear door shock absorver
+	- A46398001
+- Castrol Olistamoly 2 (lithium grease)
+	- A000989635111
 
