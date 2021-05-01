@@ -1,3 +1,11 @@
+# Full Spectrum Laser 5th Gen
+
+## Power and speeds with Retina Engrave Legacy
+
+- Black EVA rubber 1.8 mm P30 S100
+
+## Proprietary to open source projects 
+
 https://jtechphotonics.com/?page_id=1503
 
 https://www.instructables.com/community/K40-Chinese-laser-convertion-to-Arduino/
@@ -6,7 +14,7 @@ https://www.google.com/search?q=RAMPS+laser+co2&tbm=isch&ved=2ahUKEwjos4zd1-nlAh
 
 https://www.egr.msu.edu/classes/ece480/capstone/spring10/group07/480STUFF/spms180d.pdf
 
-# Replacing the electronics
+## Replacing the electronics
 
 Full Spectrum claims to have a electronics/software combo in which they have spent thousands of man-hour to develop. What a waste of time. It is not open source, not working in Mac OS or Linux. It's useless for me and many other people.
 
