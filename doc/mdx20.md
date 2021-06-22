@@ -1,10 +1,20 @@
 # Roland Modela MDX-20 CNC
 
+
+<!-- vim-markdown-toc GFM -->
+
+* [Flow control](#flow-control)
+* [|DB9  |   DB25|](#db9-----db25)
+* [Parts](#parts)
+
+<!-- vim-markdown-toc -->
+
+
 ## Flow control
 
 The Roland modela USB to DB9 cable uses DTR/DSR flow control. But I might have to rewire.
 
-
+---
 |DB9  |   DB25|
 ---
 1    8
@@ -75,7 +85,7 @@ it's
    7 <----->  6
 
 
-
+---
 |DB9  |   DB25 Grey| DB25 Nadya
 --- | --- | ---
 1  |  8  | 20
@@ -88,6 +98,9 @@ it's
 8  |  5  |20
 9  |  22 | none
 
+## Parts
 
+- Roland ASSY, DRIVE GEAR WITH SHAFT - 22805364
+- Whithout shaft? 100000190
 
 
