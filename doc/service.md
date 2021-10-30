@@ -13,6 +13,7 @@ Every 2 years:
 
 - Fuel filter: Bosch F 026 402 056
 - Brake fluid: Bosch 1 987 479 107
+- 2x 3 EN UNO Profesional - Grasa de Litio Multiusos Cartucho- 400 g, incoloro (34223/37)
 
 Air filters (check cabin filter before):
 
@@ -44,10 +45,11 @@ Air filters (check cabin filter before):
 |          | August 25, 2020   | ITV Pass                                   |
 | 190808   | Sept 2021         | Oil change, carbon filter                  |
 |          | 8 Sept 2021       | ITV fail, rear right door latch            |
+| 190870   | 10 Sept 2021      | ITV Pass                                   |
+| 192525   | 28 Sept 2021 ue   | Grease Front Swivel housing                |
 | **TODO** |		       |					    |
 |          | Due 2021          | Air filters, oil filter                    |
 |          | Due 2022          | Grease sunroof                             |
-|          | 2 years overdue   | Grease Front link                          |
 |          | 4 years overdue   | Brake fluid change                         |
 |          | 5 years overdue   | Fuel filter                                |
 |          | Never done?       | Cooling Fluid                              |
